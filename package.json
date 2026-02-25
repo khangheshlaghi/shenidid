@@ -1,0 +1,9 @@
+{
+  "name": "shenidid",
+  "version": "1.0.0",
+  "description": "Landing page - به زودی",
+  "scripts": {
+    "dev": "npx serve .",
+    "start": "npx serve ."
+  }
+}
